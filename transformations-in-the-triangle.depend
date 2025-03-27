@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1743093962 source:c:\users\rafael\desktop\trabalho-opengl\transformations-in-the-triangle\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1743098557 source:c:\users\rafael\desktop\trabalho-opengl\transformations-in-the-triangle\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<iostream>
+	<cmath>
+
